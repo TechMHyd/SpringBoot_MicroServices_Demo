@@ -1,0 +1,13 @@
+com\tech\cadt\start\ApplicationConfig.class
+com\tech\cadt\start\MyConfiguration.class
+com\tech\cadt\start\CORSFilter.class
+com\tech\cadt\product\service\IProductService.class
+com\tech\cadt\start\ProductService.class
+com\tech\cadt\product\dao\IProductsDAO.class
+com\tech\cadt\product\service\ProductServiceImpl.class
+com\tech\cadt\product\entity\Product.class
+com\tech\cadt\start\ApplicationConfig$JerseyConfig.class
+com\tech\cadt\start\MyConfiguration$1.class
+com\tech\cadt\product\dao\DatabaseConfig.class
+com\tech\cadt\product\dao\ProductsDAOImpl.class
+com\tech\cadt\product\rest\ProductServiceController.class
